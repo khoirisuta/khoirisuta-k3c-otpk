@@ -1,0 +1,6 @@
+{
+  "name": "PortOps Terminal Peti Kemas",
+  "description": "Aplikasi Operasional Terminal Peti Kemas dengan Master Data, Transaksi Gate dan Lapangan, serta Laporan TEUs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
